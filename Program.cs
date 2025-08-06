@@ -9,4 +9,7 @@ do
 
 Console.WriteLine($"Hello, {name}!");
 
+// Instanciate GitWitIt
+var git = new GitWitIt();
+
 Console.WriteLine("Done! Thanks for using GitWitIt.");
