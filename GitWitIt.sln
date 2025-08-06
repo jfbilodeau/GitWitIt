@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetWitIt", "GetWitIt.csproj", "{D0626423-6F2C-6A62-A55B-7CDD604CC886}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitWitIt", "GitWitIt.csproj", "{D0626423-6F2C-6A62-A55B-7CDD604CC886}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
